@@ -1,5 +1,5 @@
 import React from "react";
-import SLIITFOSSLogo from "../assets/images/logos/FOSS.jpg";
+import SLIITFOSSLogo from "../assets/images/logos/logo-light.png";
 import CEFlag from "../assets/images/logos/ce-flag.png";
 import GitHub from "../assets/images/logos/github.png";
 

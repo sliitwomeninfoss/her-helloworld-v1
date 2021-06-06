@@ -27,7 +27,7 @@ function HeroSection() {
                     className="btn btn-common"
                     style={{ color: "white" }}
                   >
-                    Get Ticket
+                    Register Now
                   </a>
                 </div>
               </div>
