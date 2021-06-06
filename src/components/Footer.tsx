@@ -1,5 +1,5 @@
 import React from "react";
-import WIFLogo from "../assets/images/logos/womeninfoss.png";
+import WIFLogo from "../assets/images/logos/WLogo-transparent.png";
 
 function Footer() {
   return (
