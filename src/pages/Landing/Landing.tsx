@@ -1,6 +1,8 @@
 import React from "react";
+import Footer from "../../components/Footer";
 import HeroSection from "../../components/HeroSection";
 import Navbar from "../../components/Navbar";
+import Partners from "../../components/Partners";
 import SpeakersSection from "../../components/SpeakersSection";
 
 function Landing() {
@@ -1367,64 +1369,7 @@ function Landing() {
       {/* <!-- Blog Section End --> */}
 
       {/* <!-- Sponsors Section Start --> */}
-      <section id="sponsors" className="section-padding">
-        <div className="overlay"></div>
-        <div className="container">
-          <div className="row">
-            <div className="col-12">
-              <div className="section-title-header text-center">
-                <h2
-                  className="section-title wow fadeInUp"
-                  data-wow-delay="0.2s"
-                >
-                  Sponsors
-                </h2>
-                <p className="wow fadeInDown" data-wow-delay="0.2s">
-                  Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum
-                  vocent mediocritatem an <br /> cule dicta iriure at phaedrum.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div
-            className="row mb-30 text-center wow fadeInDown"
-            data-wow-delay="0.3s"
-          >
-            <div className="col-lg-12">
-              <div className="sponsors-logo text-center">
-                <a href="">
-                  <img src="assets/img/sponsors/logo-1.png" alt="" />
-                </a>
-                <a href="">
-                  <img src="assets/img/sponsors/logo-2.png" alt="" />
-                </a>
-                <a href="">
-                  <img src="assets/img/sponsors/logo-3.png" alt="" />
-                </a>
-                <a href="">
-                  <img src="assets/img/sponsors/logo-4.png" alt="" />
-                </a>
-                <a href="">
-                  <img src="assets/img/sponsors/logo-5.png" alt="" />
-                </a>
-                <a href="">
-                  <img src="assets/img/sponsors/logo-6.png" alt="" />
-                </a>
-                <a href="">
-                  <img src="assets/img/sponsors/logo-7.png" alt="" />
-                </a>
-                <a href="">
-                  <img src="assets/img/sponsors/logo-8.png" alt="" />
-                </a>
-                <a href="">
-                  <img src="assets/img/sponsors/logo-9.png" alt="" />
-                </a>
-              </div>
-              {/* <!-- sponsors logo end--> */}
-            </div>
-          </div>
-        </div>
-      </section>
+      <Partners />
       {/* <!-- Sponsors Section End --> */}
 
       {/* <!-- Contact Us Section --> */}
@@ -1582,70 +1527,7 @@ function Landing() {
       </section>
       {/* <!-- Contact text End --> */}
 
-      <footer>
-        <div className="container">
-          <div className="row justify-content-center">
-            <div className="col-lg-8 col-md-12 col-xs-12">
-              <div
-                className="subscribe-inner wow fadeInDown"
-                data-wow-delay="0.3s"
-              >
-                <h2 className="subscribe-title">To Get Nearly Updates</h2>
-                <form className="text-center form-inline">
-                  <input
-                    className="mb-20 form-control"
-                    name="email"
-                    placeholder="Enter Your Email Here"
-                  />
-                  <button
-                    type="submit"
-                    className="btn btn-common sub-btn"
-                    data-style="zoom-in"
-                    data-spinner-size="30"
-                    name="submit"
-                    id="submit"
-                  >
-                    <span className="ladda-label">
-                      <i className="lni-check-box"></i> Subscribe
-                    </span>
-                  </button>
-                </form>
-              </div>
-              <div className="footer-logo">
-                <img src="assets/img/logo.png" alt="" />
-              </div>
-              <div className="social-icons-footer">
-                <ul>
-                  <li className="facebook">
-                    <a target="_blank" href="3">
-                      <i className="lni-facebook-filled"></i>
-                    </a>
-                  </li>
-                  <li className="twitter">
-                    <a target="_blank" href="3">
-                      <i className="lni-twitter-filled"></i>
-                    </a>
-                  </li>
-                  <li className="pinterest">
-                    <a target="_blank" href="3">
-                      <i className="lni-pinterest"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-              <div className="site-info">
-                <p>
-                  Powered by{" "}
-                  <a href="#" rel="nofollow">
-                    SLIIT FOSS Community
-                  </a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
-
+      <Footer />
       {/* <!-- Go to Top Link --> */}
       <a href="#" className="back-to-top">
         <i className="lni-chevron-up"></i>
