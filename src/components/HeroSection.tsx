@@ -10,16 +10,14 @@ function HeroSection() {
             <div className="col-lg-9 col-sm-12">
               <div className="contents text-center">
                 <div className="icon">
-                  <i className="lni-mic" />
+                  <i className="lni-code" />
                 </div>
                 <p className="banner-info">
-                  15, Oct 2020 - Maria Hall, NY, United states
+                  15, Aug 2021 - SLIIT Women In FOSS Community - Sri Lanka
                 </p>
-                <h2 className="head-title">her &lt;Hello World&gt; v1.0</h2>
+                <h2>her &lt;Hello World/&gt; v1.0</h2>
                 <p className="banner-desc">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Sapiente, nobis nesciunt atque perferendis, ipsa doloremque
-                  deserunt cum qui.
+                A diversity of thought, perspective and culture is important in any field, not just engineering. Surround yourself with people who support you and get involved in [coding] programs.
                 </p>
                 <div className="banner-btn">
                   <a
@@ -27,7 +25,7 @@ function HeroSection() {
                     className="btn btn-common"
                     style={{ color: "white" }}
                   >
-                    Get Ticket
+                    REGISTER
                   </a>
                 </div>
               </div>
