@@ -19,8 +19,7 @@ function Partners() {
                   Partners
                 </h2>
                 <p className="wow fadeInDown" data-wow-delay="0.2s">
-                  Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum
-                  vocent mediocritatem an <br /> cule dicta iriure at phaedrum.
+                her&lt;Hello World/&gt; has partnered with an incredible network of industry professionals and is always <br />looking for more passionate tech advocates to connect with.
                 </p>
               </div>
             </div>

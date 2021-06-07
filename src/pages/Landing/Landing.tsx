@@ -1,6 +1,7 @@
 import React from "react";
 import Footer from "../../components/Footer";
 import HeroSection from "../../components/HeroSection";
+import JudgesSection from "../../components/JudgesSection";
 import Navbar from "../../components/Navbar";
 import Partners from "../../components/Partners";
 import SpeakersSection from "../../components/SpeakersSection";
@@ -49,35 +50,36 @@ function Landing() {
               <div className="about-content">
                 <div>
                   <div className="about-text">
-                    <h2>About The Conference</h2>
+                    <h2>About her&lt;Hello World/&gt;</h2>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit
-                      sed do eiusmod ncididunt ametfh consectetur dolore magna
-                      aliqua. Ut enim ad minim veniam dolor sitame magnaelit ate
-                      consectetur adipisicing. Lorem ipsum dolor sit amet
-                      consectetur adipisicing elit sed do eiusmod.
+                    You are a female that’s crushing Frontend technologies, waiting for some action and looking for a great way to test your knowledge? Welcome. 
+                    Apply for this year’s online her&lt;Hello World/&gt; v1.0 competition and let the world see your true potential.
                     </p>
                   </div>
-                  <ul className="stylish-list mb-3">
+                  <ul className="stylish-list mb-5 mt-3">
                     <li>
-                      <i className="lni-check-mark-circle"></i>Networking
-                      Sessions
+                      <i className="lni-check-mark-circle"></i>You can apply as a team of two or three (max) or as an individual
                     </li>
                     <li>
-                      <i className="lni-check-mark-circle"></i>Meet New
-                      Professional Faces
+                      <i className="lni-check-mark-circle"></i>Chosen individuals will be divided into teams of three members
                     </li>
                     <li>
-                      <i className="lni-check-mark-circle"></i>Get Inspired by
-                      Amazing Speakers
+                      <i className="lni-check-mark-circle"></i>Teams will have 10 days to develop a solution to the task
                     </li>
                     <li>
-                      <i className="lni-check-mark-circle"></i>Lorem ipsum dolor
-                      sit ameterib
+                      <i className="lni-check-mark-circle"></i>Participants will get the task one day before competition. Please, while developing your answer to the task, define one problem and propose a solution to it
                     </li>
                     <li>
-                      <i className="lni-check-mark-circle"></i>Lorem ipsum dolor
-                      sit ameterib quodsi
+                      <i className="lni-check-mark-circle"></i>Teams can use any programming language they want
+                    </li>
+                    <li>
+                      <i className="lni-check-mark-circle"></i>No previous experience is required. You should only possess a laptop
+                    </li>
+                    <li>
+                      <i className="lni-check-mark-circle"></i>We provide groom up sessions
+                    </li>
+                    <li>
+                      <i className="lni-check-mark-circle"></i>The event is free, but registration is required
                     </li>
                   </ul>
                 </div>
@@ -99,7 +101,7 @@ function Landing() {
                 </li>
                 <li>
                   <span>
-                    <b>Location</b> Maria Hall, NY, USA
+                    <b>Where</b>Through an online platform
                   </span>
                 </li>
               </ul>
@@ -111,7 +113,7 @@ function Landing() {
                 </li>
                 <li>
                   <span>
-                    <b>Date & Time</b> 10am - 7pm, 15th Oct
+                    <b>Date & Time</b> Aug 15 - Aug 25
                   </span>
                 </li>
               </ul>
@@ -123,7 +125,7 @@ function Landing() {
                 </li>
                 <li>
                   <span>
-                    <b>Speakers</b> 25 Professionals
+                    <b>Speakers</b> 4 Speakers
                   </span>
                 </li>
               </ul>
@@ -135,7 +137,7 @@ function Landing() {
                 </li>
                 <li>
                   <span>
-                    <b>Seats</b> 100 People
+                    <b>Participants</b> Open to everyone
                   </span>
                 </li>
               </ul>
@@ -158,77 +160,52 @@ function Landing() {
                   Why You Should Join?
                 </h2>
                 <p className="wow fadeInDown" data-wow-delay="0.2s">
-                  Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum
-                  vocent mediocritatem an <br /> cule dicta iriure at phaedrum.
+                At SLIIT Women In FOSS Community, we’re here to support you in your journey through the tech world!
                 </p>
               </div>
             </div>
           </div>
           <div className="row intro-wrapper">
             <div className="col-lg-4 col-md-6 col-xs-12">
-              <div className="single-intro-text mb-70">
+              <div className="single-intro-text mb-50">
                 <i className="lni-microphone"></i>
                 <h3>Great Speakers</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Minus mollitia, excepturi.
-                </p>
                 <span className="count-number">01</span>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-xs-12">
               <div className="single-intro-text">
-                <i className="lni-users"></i>
-                <h3 className="ts-title">New People</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Minus mollitia, excepturi.
-                </p>
+                <i className="lni-cup"></i>
+                <h3 className="ts-title">Win Swags</h3>
                 <span className="count-number">02</span>
               </div>
               <div className="border-shap left"></div>
             </div>
             <div className="col-lg-4 col-md-6 col-xs-12">
-              <div className="single-intro-text mb-70">
+              <div className="single-intro-text mb-50">
                 <i className="lni-bullhorn"></i>
                 <h3>Global Event</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Minus mollitia, excepturi.
-                </p>
                 <span className="count-number">03</span>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-xs-12">
-              <div className="single-intro-text mb-70">
+              <div className="single-intro-text mb-50">
                 <i className="lni-heart"></i>
-                <h3>Get Inspired</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Minus mollitia, excepturi.
-                </p>
+                <h3>Get Inspired With Tech</h3>
                 <span className="count-number">04</span>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-xs-12">
-              <div className="single-intro-text mb-70">
-                <i className="lni-cup"></i>
-                <h3>Networking Session</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Minus mollitia, excepturi.
-                </p>
+              <div className="single-intro-text mb-50">
+                <i className="lni-book"></i>
+                <h3>Groom up Sessions</h3>
                 <span className="count-number">05</span>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-xs-12">
-              <div className="single-intro-text mb-70">
-                <i className="lni-gallery"></i>
+              <div className="single-intro-text mb-50">
+                <i className="lni-users"></i>
                 <h3>Meet New Faces</h3>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Minus mollitia, excepturi.
-                </p>
                 <span className="count-number">06</span>
               </div>
             </div>
@@ -245,10 +222,10 @@ function Landing() {
             <div className="col-lg-3 col-md-6 col-xs-12 work-counter-widget">
               <div className="counter">
                 <div className="icon">
-                  <i className="lni-mic"></i>
+                  <i className="lni-microphone"></i>
                 </div>
                 <div className="counter-content">
-                  <div className="counterUp">42</div>
+                  <div className="counterUp">4</div>
                   <p>Spekers</p>
                 </div>
               </div>
@@ -257,11 +234,11 @@ function Landing() {
             <div className="col-lg-3 col-md-6 col-xs-12 work-counter-widget">
               <div className="counter">
                 <div className="icon">
-                  <i className="lni-bulb"></i>
+                  <i className="lni-users"></i>
                 </div>
                 <div className="counter-content">
-                  <div className="counterUp">800</div>
-                  <p>Seats</p>
+                  <div className="counterUp">100</div>
+                  <p>Participants</p>
                 </div>
               </div>
             </div>
@@ -269,11 +246,11 @@ function Landing() {
             <div className="col-lg-3 col-md-6 col-xs-12 work-counter-widget">
               <div className="counter">
                 <div className="icon">
-                  <i className="lni-briefcase"></i>
+                  <i className="lni-heart"></i>
                 </div>
                 <div className="counter-content">
-                  <div className="counterUp">24</div>
-                  <p>Sponsors</p>
+                  <div className="counterUp">3</div>
+                  <p>Partners</p>
                 </div>
               </div>
             </div>
@@ -281,11 +258,11 @@ function Landing() {
             <div className="col-lg-3 col-md-6 col-xs-12 work-counter-widget">
               <div className="counter">
                 <div className="icon">
-                  <i className="lni-coffee-cup"></i>
+                  <i className="lni-book"></i>
                 </div>
                 <div className="counter-content">
-                  <div className="counterUp">56</div>
-                  <p>Sessions</p>
+                  <div className="counterUp">4</div>
+                  <p>Groom Up Sessions</p>
                 </div>
               </div>
             </div>
@@ -304,11 +281,10 @@ function Landing() {
                   className="section-title wow fadeInUp"
                   data-wow-delay="0.2s"
                 >
-                  Event Schedules
+                  Groom Up Sessions
                 </h2>
                 <p className="wow fadeInDown" data-wow-delay="0.2s">
-                  Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum
-                  vocent mediocritatem an <br /> cule dicta iriure at phaedrum.
+                her&lt;Hello World/&gt; is designed to be an inclusive space to support female-identifying individuals who are interested in technology!
                 </p>
               </div>
             </div>
@@ -1131,7 +1107,7 @@ function Landing() {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> 
                 </div>
               </div>
             </div>
@@ -1144,229 +1120,9 @@ function Landing() {
       <SpeakersSection />
       {/* <!-- Team Section End --> */}
 
-      {/* <!-- Event Slides Section Start --> */}
-      <section id="event-up" className="section-padding">
-        <div className="container">
-          <div className="row">
-            <div className="col-12">
-              <div className="section-title-header text-center">
-                <h2
-                  className="section-title wow fadeInUp"
-                  data-wow-delay="0.2s"
-                >
-                  Gallery
-                </h2>
-                <p className="wow fadeInDown" data-wow-delay="0.2s">
-                  Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum
-                  vocent mediocritatem an <br /> cule dicta iriure at phaedrum.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-lg-3 col-md-6 col-xs-12">
-              <div className="event-item">
-                <img
-                  className="img-fluid"
-                  src="assets/img/event/img1.jpg"
-                  alt=""
-                />
-                <div className="overlay-text">
-                  <div className="content">
-                    <h3>Business Confrence</h3>
-                    <a href="#">View details</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-3 col-md-6 col-xs-12">
-              <div className="event-item">
-                <img
-                  className="img-fluid"
-                  src="assets/img/event/img2.jpg"
-                  alt=""
-                />
-                <div className="overlay-text">
-                  <div className="content">
-                    <h3>Designer Confrence</h3>
-                    <a href="#">View details</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-3 col-md-6 col-xs-12">
-              <div className="event-item">
-                <img
-                  className="img-fluid"
-                  src="assets/img/event/img3.jpg"
-                  alt=""
-                />
-                <div className="overlay-text">
-                  <div className="content">
-                    <h3>Marketer Confrence</h3>
-                    <a href="#">View details</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-3 col-md-6 col-xs-12">
-              <div className="event-item">
-                <img
-                  className="img-fluid"
-                  src="assets/img/event/img4.jpg"
-                  alt=""
-                />
-                <div className="overlay-text">
-                  <div className="content">
-                    <h3>JS Confrence</h3>
-                    <a href="#">View details</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="row mt-5">
-            <div className="col-12 text-center">
-              <a href="!#" className="btn btn-common">
-                More Event
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
-      {/* <!-- Event Slides Section End --> */}
-
-      {/* <!-- Blog Section Start --> */}
-      <section id="blog" className="section-padding">
-        <div className="container">
-          <div className="row">
-            <div className="col-12">
-              <div className="section-title-header text-center">
-                <h2
-                  className="section-title wow fadeInUp"
-                  data-wow-delay="0.2s"
-                >
-                  Latest News
-                </h2>
-                <p className="wow fadeInDown" data-wow-delay="0.2s">
-                  Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum
-                  vocent mediocritatem an <br /> cule dicta iriure at phaedrum.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-lg-4 col-md-6 col-xs-12">
-              <div className="blog-item">
-                <div className="blog-image">
-                  <a href="#">
-                    <img
-                      className="img-fluid"
-                      src="assets/img/blog/img-1.jpg"
-                      alt=""
-                    />
-                  </a>
-                </div>
-                <div className="descr">
-                  <div className="icon">
-                    <i className="lni-image"></i>
-                  </div>
-                  <h3 className="title">
-                    <a href="#">Learn Something New</a>
-                  </h3>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipsing elit, sed
-                    do eiusmodincididunt ut labore et dolore
-                  </p>
-                </div>
-                <div className="meta-tags">
-                  <span className="date">
-                    <i className="lni-calendar"></i> Jan 20, 2020
-                  </span>
-                  <span className="comments">
-                    <i className="lni-comment-alt"></i>{" "}
-                    <a href="#"> 0 Comment</a>
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-xs-12">
-              <div className="blog-item">
-                <div className="blog-image">
-                  <a href="#">
-                    <img
-                      className="img-fluid"
-                      src="assets/img/blog/img-2.jpg"
-                      alt=""
-                    />
-                  </a>
-                </div>
-                <div className="descr">
-                  <div className="icon">
-                    <i className="lni-arrow-right"></i>
-                  </div>
-                  <h3 className="title">
-                    <a href="#">Call for sponsors</a>
-                  </h3>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipsing elit, sed
-                    do eiusmodincididunt ut labore et dolore
-                  </p>
-                </div>
-                <div className="meta-tags">
-                  <span className="date">
-                    <i className="lni-calendar"></i> Jan 20, 2020
-                  </span>
-                  <span className="comments">
-                    <i className="lni-comment-alt"></i>{" "}
-                    <a href="#"> 0 Comment</a>
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-4 col-md-6 col-xs-12">
-              <div className="blog-item">
-                <div className="blog-image">
-                  <a href="#">
-                    <img
-                      className="img-fluid"
-                      src="assets/img/blog/img-3.jpg"
-                      alt=""
-                    />
-                  </a>
-                </div>
-                <div className="descr">
-                  <div className="icon">
-                    <i className="lni-camera"></i>
-                  </div>
-                  <h3 className="title">
-                    <a href="#">Elon Musk joining the event</a>
-                  </h3>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipsing elit, sed
-                    do eiusmodincididunt ut labore et dolore
-                  </p>
-                </div>
-                <div className="meta-tags">
-                  <span className="date">
-                    <i className="lni-calendar"></i> Jan 20, 2020
-                  </span>
-                  <span className="comments">
-                    <i className="lni-comment-alt"></i>{" "}
-                    <a href="#"> 0 Comment</a>
-                  </span>
-                </div>
-              </div>
-            </div>
-            <div className="col-12 text-center">
-              <a href="#" className="btn btn-common">
-                View all Blog
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
-      {/* <!-- Blog Section End --> */}
+      {/* <!-- Team Section Start --> */}
+       <JudgesSection />
+      {/* <!-- Team Section End --> */}
 
       {/* <!-- Sponsors Section Start --> */}
       <Partners />
@@ -1385,8 +1141,7 @@ function Landing() {
                   Contact Us
                 </h2>
                 <p className="wow fadeInDown" data-wow-delay="0.2s">
-                  Lorem ipsum dolor sit amet, in quodsi vulputate pro. Ius illum
-                  vocent mediocritatem an <br /> cule dicta iriure at phaedrum.
+                  Still have questions?
                 </p>
               </div>
             </div>
@@ -1491,34 +1246,13 @@ function Landing() {
       <section id="contact-text">
         <div className="container">
           <div className="row contact-wrapper">
-            <div className="col-lg-4 col-md-5 col-xs-12">
-              <ul>
-                <li>
-                  <i className="lni-home"></i>
-                </li>
-                <li>
-                  <span />
-                  Cesare Rosaroll, 118 80139 Eventine
-                </li>
-              </ul>
-            </div>
-            <div className="col-lg-4 col-md-3 col-xs-12">
-              <ul>
-                <li>
-                  <i className="lni-phone"></i>
-                </li>
-                <li>
-                  <span>+789 123 456 79</span>
-                </li>
-              </ul>
-            </div>
-            <div className="col-lg-4 col-md-3 col-xs-12">
+            <div className="col-lg-12">
               <ul>
                 <li>
                   <i className="lni-envelope"></i>
                 </li>
                 <li>
-                  <span>Support@example.com</span>
+                  <span>infowifsliit@gmail.com</span>
                 </li>
               </ul>
             </div>

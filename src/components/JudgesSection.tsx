@@ -1,7 +1,7 @@
 import React from "react";
 import SewvandiImage from "../assets/images/speakers/sew.jpg";
 
-function SpeakersSection() {
+function JudgesSection() {
   return (
     <>
       <section id="team" className="section-padding text-center">
@@ -13,11 +13,10 @@ function SpeakersSection() {
                   className="section-title wow fadeInUp"
                   data-wow-delay="0.2s"
                 >
-                  Our Speakers
+                  Our Judges
                 </h2>
                 <p className="wow fadeInDown" data-wow-delay="0.2s">
-                The her&lt;Hello World/&gt; Groom Up Programs connect young women who want to expand their knowledge and gain footing in the tech world with upper-years <br />
-                who have that experience and knowledge as part of a year-long project development program
+                her&lt;Hello World/&gt; delivers a series of judges designed to inspire and equip.
                 </p>
               </div>
             </div>
@@ -237,7 +236,7 @@ function SpeakersSection() {
             data-wow-delay="1.9s"
             style={{ color: "white" }}
           >
-            Meet all speakers
+            Meet all Judges
           </a>
         </div>
       </section>
@@ -245,4 +244,4 @@ function SpeakersSection() {
   );
 }
 
-export default SpeakersSection;
+export default JudgesSection;

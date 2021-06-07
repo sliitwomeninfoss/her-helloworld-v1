@@ -15,7 +15,7 @@ function HeroSection() {
                 <p className="banner-info">
                   15, Aug 2021 - SLIIT Women In FOSS Community - Sri Lanka
                 </p>
-                <h2>her &lt;Hello World/&gt; v1.0</h2>
+                <h2>her&lt;Hello World/&gt; v1.0</h2>
                 <p className="banner-desc">
                 A diversity of thought, perspective and culture is important in any field, not just engineering. Surround yourself with people who support you and get involved in [coding] programs.
                 </p>
