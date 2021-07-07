@@ -23,7 +23,7 @@ function SpeakersSection() {
             </div>
           </div>
           <div className="row justify-content-bt">
-            <div>Speakers will be revealing soon... </div>
+            <div className="revealing-soon-text">Speakers will be revealing soon... </div>
             {/* <div className="col-lg-3 col-md-6 col-xs-12"> */}
             {/* <!-- Team Item Starts --> */}
             {/* <div className="team-item wow fadeInUp" data-wow-delay="0.2s">
