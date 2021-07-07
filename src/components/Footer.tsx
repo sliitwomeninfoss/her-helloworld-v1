@@ -39,18 +39,23 @@ function Footer() {
               <div className="social-icons-footer">
                 <ul>
                   <li className="facebook">
-                    <a target="_blank" href="3">
+                    <a target="_blank" href="https://www.facebook.com/wifoss.sliit/">
                       <i className="lni-facebook-filled"></i>
                     </a>
                   </li>
                   <li className="twitter">
-                    <a target="_blank" href="3">
+                    <a target="_blank" href="https://twitter.com/wifoss_sliit">
                       <i className="lni-twitter-filled"></i>
                     </a>
                   </li>
-                  <li className="pinterest">
-                    <a target="_blank" href="3">
-                      <i className="lni-pinterest"></i>
+                  <li className="instagram">
+                    <a target="_blank" href="https://www.instagram.com/wifoss_sliit/">
+                      <i className="lni-instagram"></i>
+                    </a>
+                  </li>
+                  <li className="linkedin">
+                    <a target="_blank" href="https://www.linkedin.com/company/sliit-women-in-foss-community/">
+                      <i className="lni-linkedin"></i>
                     </a>
                   </li>
                 </ul>

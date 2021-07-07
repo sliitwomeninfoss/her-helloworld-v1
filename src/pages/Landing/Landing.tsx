@@ -41,7 +41,7 @@ function Landing() {
               <div className="img-thumb">
                 <img
                   className="img-fluid"
-                  src="assets/img/about/img1.png"
+                  src="assets/img/about/Her.png"
                   alt=""
                 />
               </div>
