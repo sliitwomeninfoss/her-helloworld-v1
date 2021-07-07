@@ -1,5 +1,5 @@
 import React from "react";
-import WIFLogo from "../assets/images/logos/womeninfoss.png";
+import WIFLogo from "../assets/images/logos/Her.png";
 
 const Navbar: React.FC = () => {
   return (
