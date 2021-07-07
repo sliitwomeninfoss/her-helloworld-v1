@@ -43,13 +43,13 @@ const Navbar: React.FC = () => {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#event-up">
-                  Gallery
+                <a className="nav-link" href="#judges">
+                  Judges
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#sponsors">
-                  Sponsors
+                  Partners
                 </a>
               </li>
               <li className="nav-item">

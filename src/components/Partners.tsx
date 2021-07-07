@@ -1,5 +1,5 @@
 import React from "react";
-import SLIITFOSSLogo from "../assets/images/logos/FOSS.jpg";
+import SLIITFOSSLogo from "../assets/images/logos/foss-logo.png";
 import CEFlag from "../assets/images/logos/ce-flag.png";
 import GitHub from "../assets/images/logos/github.png";
 
@@ -19,7 +19,7 @@ function Partners() {
                   Partners
                 </h2>
                 <p className="wow fadeInDown" data-wow-delay="0.2s">
-                her&lt;Hello World/&gt; has partnered with an incredible network of industry professionals and is always <br />looking for more passionate tech advocates to connect with.
+                  her&lt;Hello World/&gt; has partnered with an incredible network of industry professionals and is always <br />looking for more passionate tech advocates to connect with.
                 </p>
               </div>
             </div>
@@ -30,14 +30,15 @@ function Partners() {
           >
             <div className="col-lg-12">
               <div className="sponsors-logo text-center">
-                <a href="">
-                  <img src={SLIITFOSSLogo} alt="" width={100} />
-                </a>
+
                 <a href="">
                   <img src={CEFlag} alt="" width={100} />
                 </a>
+                <a href="https://sliitfoss.org/">
+                  <img src={SLIITFOSSLogo} alt="" width={100} />
+                </a>
                 <a href="">
-                  <img src={GitHub} alt="" width={170} />
+                  <img src={GitHub} alt="" width={100} />
                 </a>
                 {/*<a href="">*/}
                 {/*  <img src="assets/img/sponsors/logo-4.png" alt="" />*/}

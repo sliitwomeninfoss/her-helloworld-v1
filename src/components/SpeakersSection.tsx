@@ -16,16 +16,17 @@ function SpeakersSection() {
                   Our Speakers
                 </h2>
                 <p className="wow fadeInDown" data-wow-delay="0.2s">
-                The her&lt;Hello World/&gt; Groom Up Programs connect young women who want to expand their knowledge and gain footing in the tech world with upper-years <br />
-                who have that experience and knowledge as part of a year-long project development program
+                  The her&lt;Hello World/&gt; Groom Up Programs connect young women who want to expand their knowledge and gain footing in the tech world with upper-years <br />
+                  who have that experience and knowledge as part of a year-long project development program
                 </p>
               </div>
             </div>
           </div>
           <div className="row justify-content-bt">
-            <div className="col-lg-3 col-md-6 col-xs-12">
-              {/* <!-- Team Item Starts --> */}
-              <div className="team-item wow fadeInUp" data-wow-delay="0.2s">
+            <div className="revealing-soon-text">Speakers will be revealing soon... </div>
+            {/* <div className="col-lg-3 col-md-6 col-xs-12"> */}
+            {/* <!-- Team Item Starts --> */}
+            {/* <div className="team-item wow fadeInUp" data-wow-delay="0.2s">
                 <div className="team-img">
                   <img className="img-fluid" src={SewvandiImage} alt="" />
                   <div className="team-overlay">
@@ -69,12 +70,12 @@ function SpeakersSection() {
                     SLIIT Women In FOSS Community Lead
                   </p>
                 </div>
-              </div>
-              {/* <!-- Team Item Ends --> */}
-            </div>
-            <div className="col-lg-3 col-md-6 col-xs-12">
-              {/* <!-- Team Item Starts --> */}
-              <div className="team-item wow fadeInUp" data-wow-delay="0.4s">
+              </div> */}
+            {/* <!-- Team Item Ends --> */}
+            {/* </div> */}
+            {/* <div className="col-lg-3 col-md-6 col-xs-12"> */}
+            {/* <!-- Team Item Starts --> */}
+            {/* <div className="team-item wow fadeInUp" data-wow-delay="0.4s">
                 <div className="team-img">
                   <img
                     className="img-fluid"
@@ -120,13 +121,13 @@ function SpeakersSection() {
                   </h3>
                   <p>Front-end Developer</p>
                 </div>
-              </div>
-              {/* <!-- Team Item Ends --> */}
-            </div>
+              </div> */}
+            {/* <!-- Team Item Ends --> */}
+            {/* </div> */}
 
-            <div className="col-lg-3 col-md-6 col-xs-12">
-              {/* <!-- Team Item Starts --> */}
-              <div className="team-item wow fadeInUp" data-wow-delay="0.6s">
+            {/*  <div className="col-lg-3 col-md-6 col-xs-12"> */}
+            {/* <!-- Team Item Starts --> */}
+            {/*  <div className="team-item wow fadeInUp" data-wow-delay="0.6s">
                 <div className="team-img">
                   <img
                     className="img-fluid"
@@ -172,13 +173,13 @@ function SpeakersSection() {
                   </h3>
                   <p>Lead Designer, TNW</p>
                 </div>
-              </div>
-              {/* <!-- Team Item Ends --> */}
-            </div>
+              </div> */}
+            {/* <!-- Team Item Ends --> */}
+            {/* </div> */}
 
-            <div className="col-lg-3 col-md-6 col-xs-12">
-              {/* <!-- Team Item Starts --> */}
-              <div className="team-item wow fadeInUp" data-wow-delay="0.8s">
+            {/* <div className="col-lg-3 col-md-6 col-xs-12"> */}
+            {/* <!-- Team Item Starts --> */}
+            {/* <div className="team-item wow fadeInUp" data-wow-delay="0.8s">
                 <div className="team-img">
                   <img
                     className="img-fluid"
@@ -224,21 +225,21 @@ function SpeakersSection() {
                   </h3>
                   <p>Back-end Developer, ASUS</p>
                 </div>
-              </div>
-              {/* <!-- Team Item Ends --> */}
-            </div>
+              </div> */}
+            {/* <!-- Team Item Ends --> */}
+            {/* </div> */}
 
-            
-         
+
+
           </div>
-          <a
+          {/* <a
             href="#"
             className="btn btn-common mt-30 wow fadeInUp"
             data-wow-delay="1.9s"
             style={{ color: "white" }}
           >
             Meet all speakers
-          </a>
+          </a> */}
         </div>
       </section>
     </>
