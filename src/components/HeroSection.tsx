@@ -25,7 +25,7 @@ function HeroSection() {
                     className="btn btn-common"
                     style={{ color: "white" }}
                   >
-                    REGISTERATION WILL BE OPEN SOON
+                    REGISTERATION WILL BE OPEN
                   </a>
                 </div>
               </div>
