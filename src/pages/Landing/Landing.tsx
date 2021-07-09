@@ -51,7 +51,7 @@ function Landing() {
               <div className="about-content">
                 <div>
                   <div className="about-text">
-                    <h2>About her&lt;Hello World/&gt;</h2>
+                    <h2>her&lt;Hello World/&gt; v1.0</h2>
                     <p>
                       You are a female that’s crushing Frontend technologies, waiting for some action and looking for a great way to test your knowledge? Welcome.
                       Apply for this year’s online her&lt;Hello World/&gt; v1.0 competition and let the world see your true potential.
@@ -148,6 +148,82 @@ function Landing() {
       </section>
       {/* <!-- Information Bar End --> */}
 
+      <section id="intro">
+        <div className="container section-padding">
+          <div className="row">
+            <div className="col-12">
+              <div className="section-title-header">
+                <div className="about-text">
+                    <h4>What is her&lt;Hello World/&gt; ?</h4>
+                    <div className="stylish-list">
+                    her&lt;Hello World/&gt; v1.0 hackathon is an exciting event, typically lasting several hours, that brings computer programmers together to participate in a time-sensitive challenge. The her&lt;Hello World/&gt; Hackathon captures this concept, inviting university girls whole over the world to code a visual story or interactive game connected to a social impact theme. By applying their learning and personal interests to the surprise theme, girls support and encourage each other, bringing their ideas and coding skills to the next level!
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div className="row intro-wrapper">
+          </div>
+        </div>
+      </section>
+
+      <section id="intro">
+        <div className="container">
+          <div className="row">
+            <div className="col-12">
+              <div className="section-title-header">
+                <div className="about-text">
+                    <h4>What resources and activities are available through her&lt;Hello World/&gt; coding program?</h4>
+                    <div className="stylish-list">
+                    her&lt;Hello World/&gt;, offers a supportive mastering experience for learners and facilitators, supplying the tools they want to discover ways to code and discover career opportunities in technology. her&lt;Hello World/&gt; offers a variety of learning experiences, such as coding curriculum, facilitator courses, interactive webinars, multimedia lessons, and much more, for girls to discover ways to code at their own tempo!
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div className="row intro-wrapper">
+          </div>
+        </div>
+      </section>
+
+      <section id="intro">
+        <div className="container section-padding">
+          <div className="row">
+            <div className="col-12">
+              <div className="section-title-header">
+                <div className="about-text">
+                    <h4>Why girls only?</h4>
+                    <div className="stylish-list">
+                    Our mission is to change the face of computer science and pave the way for a technology industry that is diverse and inclusive of underrepresented groups across World. Exposing girls to computer science in a supportive learning environment builds their confidence and increases their drive to pursue those academic subjects in their future. her&lt;Hello World/&gt; v1.0 takes a gender-specific approach to our programming. This means that our programs focus on girls and consider the biases and influences that might impact their experience. her&lt;Hello World/&gt; v1.0 uses an inclusive definition of “girls” and “female.”
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div className="row intro-wrapper">
+          </div>
+        </div>
+      </section>
+
+      <section id="intro">
+        <div className="container">
+          <div className="row">
+            <div className="col-12">
+              <div className="section-title-header">
+                <div className="about-text">
+                    <h4>Beyond coding, what other skills will the girls learn?</h4>
+                    <div className="stylish-list">
+                    The her&lt;Hello World/&gt; Hackathon Program provides girls with the opportunity to be creative and learn from others to reach their goals. We know that learning to code and making a difference through technology goes beyond programming knowledge and skills. That is why her&lt;Hello World/&gt; v1.0 Future Ready Competencies equip girls with the confidence to persevere. Our program is built on the belief that every learner can thrive when they are given the opportunity to tell their story and share their voice in a safe and supportive all-girls community.
+                    </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div className="row intro-wrapper">
+          </div>
+        </div>
+      </section>
+
       {/* <!-- intro Section Start --> */}
       <section id="intro" className="intro section-padding">
         <div className="container">
@@ -214,82 +290,6 @@ function Landing() {
         </div>
       </section>
       {/* <!-- intro Section End --> */}
-
-      <section id="intro">
-        <div className="container">
-          <div className="row">
-            <div className="col-12">
-              <div className="section-title-header">
-                <div className="about-text">
-                    <h4>What is her&lt;Hello World/&gt; ?</h4>
-                    <div className="stylish-list">
-                    her&lt;Hello World/&gt; v1.0 hackathon is an exciting event, typically lasting several hours, that brings computer programmers together to participate in a time-sensitive challenge. The her&lt;Hello World/&gt; Hackathon captures this concept, inviting university girls whole over the world to code a visual story or interactive game connected to a social impact theme. By applying their learning and personal interests to the surprise theme, girls support and encourage each other, bringing their ideas and coding skills to the next level!
-                    </div>
-                  </div>
-              </div>
-            </div>
-          </div>
-          <div className="row intro-wrapper">
-          </div>
-        </div>
-      </section>
-
-      <section id="intro" className="section-padding">
-        <div className="container">
-          <div className="row">
-            <div className="col-12">
-              <div className="section-title-header">
-                <div className="about-text">
-                    <h4>What resources and activities are available through her&lt;Hello World/&gt; coding program?</h4>
-                    <div className="stylish-list">
-                    her&lt;Hello World/&gt;, offers a supportive mastering experience for learners and facilitators, supplying the tools they want to discover ways to code and discover career opportunities in technology. her&lt;Hello World/&gt; offers a variety of learning experiences, such as coding curriculum, facilitator courses, interactive webinars, multimedia lessons, and much more, for girls to discover ways to code at their own tempo!
-                    </div>
-                  </div>
-              </div>
-            </div>
-          </div>
-          <div className="row intro-wrapper">
-          </div>
-        </div>
-      </section>
-
-      <section id="intro">
-        <div className="container">
-          <div className="row">
-            <div className="col-12">
-              <div className="section-title-header">
-                <div className="about-text">
-                    <h4>Why girls only?</h4>
-                    <div className="stylish-list">
-                    Our mission is to change the face of computer science and pave the way for a technology industry that is diverse and inclusive of underrepresented groups across World. Exposing girls to computer science in a supportive learning environment builds their confidence and increases their drive to pursue those academic subjects in their future. her&lt;Hello World/&gt; v1.0 takes a gender-specific approach to our programming. This means that our programs focus on girls and consider the biases and influences that might impact their experience. her&lt;Hello World/&gt; v1.0 uses an inclusive definition of “girls” and “female.”
-                    </div>
-                  </div>
-              </div>
-            </div>
-          </div>
-          <div className="row intro-wrapper">
-          </div>
-        </div>
-      </section>
-
-      <section id="intro">
-        <div className="container section-padding">
-          <div className="row">
-            <div className="col-12">
-              <div className="section-title-header">
-                <div className="about-text">
-                    <h4>Beyond coding, what other skills will the girls learn?</h4>
-                    <div className="stylish-list">
-                    The her&lt;Hello World/&gt; Hackathon Program provides girls with the opportunity to be creative and learn from others to reach their goals. We know that learning to code and making a difference through technology goes beyond programming knowledge and skills. That is why her&lt;Hello World/&gt; v1.0 Future Ready Competencies equip girls with the confidence to persevere. Our program is built on the belief that every learner can thrive when they are given the opportunity to tell their story and share their voice in a safe and supportive all-girls community.
-                    </div>
-                  </div>
-              </div>
-            </div>
-          </div>
-          <div className="row intro-wrapper">
-          </div>
-        </div>
-      </section>
 
       {/* <!-- Counter Area Start--> */}
       <section className="counter-section section-padding">

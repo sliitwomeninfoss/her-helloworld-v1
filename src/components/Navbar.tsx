@@ -7,7 +7,7 @@ const Navbar: React.FC = () => {
       <nav className="navbar navbar-expand-lg bg-inverse fixed-top scrolling-navbar">
         <div className="container">
           <a href="/" className="">
-            <img src={WIFLogo} alt="" width={"70px"} height={"50px"} />
+            <img src={WIFLogo} alt="" width={"60px"} height={"50px"} />
           </a>
           <button
             className="navbar-toggler"
