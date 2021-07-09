@@ -44,12 +44,12 @@ function Footer() {
                     </a>
                   </li>
                   <li className="twitter">
-                    <a target="_blank" href="https://twitter.com/wifoss_sliit">
+                    <a target="_blank" href="https://twitter.com/sliitwif">
                       <i className="lni-twitter-filled"></i>
                     </a>
                   </li>
                   <li className="instagram">
-                    <a target="_blank" href="https://www.instagram.com/wifoss_sliit/">
+                    <a target="_blank" href="https://www.instagram.com/sliitwomeninfoss/">
                       <i className="lni-instagram"></i>
                     </a>
                   </li>
@@ -63,7 +63,7 @@ function Footer() {
               <div className="site-info">
                 <p>
                   Powered by{" "}
-                  <a href="#" rel="nofollow">
+                  <a href="https://sliitfoss.org/" rel="nofollow">
                     SLIIT FOSS Community
                   </a>
                 </p>
