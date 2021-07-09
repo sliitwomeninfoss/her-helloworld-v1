@@ -303,7 +303,7 @@ function Landing() {
                 </div>
                 <div className="counter-content">
                   <div className="counterUp">4</div>
-                  <p>Spekers</p>
+                  <p>Speakers</p>
                 </div>
               </div>
             </div>
