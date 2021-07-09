@@ -53,7 +53,7 @@ function Landing() {
                   <div className="about-text">
                     <h2>her&lt;Hello World/&gt; v1.0</h2>
                     <p>
-                      You are a female that’s crushing Frontend technologies, waiting for some action and looking for a great way to test your knowledge? Welcome.
+                      Are you a female that’s crushing Frontend technologies, waiting for some action and looking for a great way to test your knowledge? Welcome.
                       Apply for this year’s online her&lt;Hello World/&gt; v1.0 competition and let the world see your true potential.
                     </p>
                   </div>
