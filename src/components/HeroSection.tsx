@@ -21,11 +21,11 @@ function HeroSection() {
                 </p>
                 <div className="banner-btn">
                   <a
-                    href="!#"
+                    href="https://forms.gle/9WgCYrpKGg9VR5Mc8"
                     className="btn btn-common"
                     style={{ color: "white" }}
                   >
-                    REGISTERATION WILL BE OPEN
+                    REGISTER NOW
                   </a>
                 </div>
               </div>

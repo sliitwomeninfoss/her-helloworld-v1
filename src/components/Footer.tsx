@@ -39,7 +39,7 @@ function Footer() {
               <div className="social-icons-footer">
                 <ul>
                   <li className="facebook">
-                    <a target="_blank" href="https://www.facebook.com/wifoss.sliit/">
+                    <a target="_blank" href="https://www.facebook.com/sliitwif/">
                       <i className="lni-facebook-filled"></i>
                     </a>
                   </li>
@@ -49,7 +49,7 @@ function Footer() {
                     </a>
                   </li>
                   <li className="instagram">
-                    <a target="_blank" href="https://www.instagram.com/sliitwomeninfoss/">
+                    <a target="_blank" href="https://www.instagram.com/sliitwif/">
                       <i className="lni-instagram"></i>
                     </a>
                   </li>
