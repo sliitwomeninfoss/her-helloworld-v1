@@ -68,7 +68,7 @@ function Landing() {
                       <i className="lni-check-mark-circle"></i>Teams will have 10 days to develop a solution to the task
                     </li>
                     <li>
-                      <i className="lni-check-mark-circle"></i>Participants will get the task one day before competition. Please, while developing your answer to the task, define one problem and propose a solution to it
+                      <i className="lni-check-mark-circle"></i>Participants will get the task one day before competition. Please, while developing your answer to the task propose a solution to it
                     </li>
                     <li>
                       <i className="lni-check-mark-circle"></i>Teams can use any programming language they want
