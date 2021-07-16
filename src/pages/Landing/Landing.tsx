@@ -65,7 +65,7 @@ function Landing() {
                       <i className="lni-check-mark-circle"></i>Chosen individuals will be divided into teams of three members
                     </li>
                     <li>
-                      <i className="lni-check-mark-circle"></i>Teams will have 10 days to develop a solution to the task
+                      <i className="lni-check-mark-circle"></i>Teams will have one week to develop a solution to the task
                     </li>
                     <li>
                       <i className="lni-check-mark-circle"></i>Participants will get the task one day before competition. Please, while developing your answer to the task propose a solution to it
