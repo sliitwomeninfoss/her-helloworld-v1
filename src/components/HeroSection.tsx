@@ -25,7 +25,7 @@ function HeroSection() {
                     className="btn btn-common"
                     style={{ color: "white" }}
                   >
-                    REGISTER NOW
+                    REGISTRATION CLOSED
                   </a>
                 </div>
               </div>
