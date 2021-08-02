@@ -28,7 +28,6 @@ function SpeakersSection() {
               </div>
             </div>
           </div>
-          //commented
           {/* <div className="row justify-content-bt">
           <div className="col-lg-3 col-md-6 col-xs-12">
               <div className="team-item wow fadeInUp" data-wow-delay="0.2s">
