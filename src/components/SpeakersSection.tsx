@@ -2,7 +2,7 @@ import React from "react";
 import Sewvandi from "../assets/images/speakers/Sewvandi.jpg";
 import Chenuka from "../assets/images/speakers/Chenuka.jpg";
 import Chamodi from "../assets/images/speakers/Chamodi.jpg";
-import Bagya from "../assets/images/speakers/Bhagya.jpeg";
+import Bagya from "../assets/images/speakers/Bhagya.jpg";
 
 function SpeakersSection() {
   return (
@@ -28,7 +28,7 @@ function SpeakersSection() {
               </div>
             </div>
           </div>
-          {/* <div className="row justify-content-bt">
+          <div className="row justify-content-bt">
           <div className="col-lg-3 col-md-6 col-xs-12">
               <div className="team-item wow fadeInUp" data-wow-delay="0.2s">
                 <div className="team-img">
@@ -81,7 +81,7 @@ function SpeakersSection() {
                 </div>
               </div>
             </div>
-          </div> */}
+          </div>
         </div>
       </section>
     </>
