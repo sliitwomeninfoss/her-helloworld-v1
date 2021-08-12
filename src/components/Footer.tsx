@@ -12,7 +12,7 @@ function Footer() {
                 className="subscribe-inner wow fadeInDown"
                 data-wow-delay="0.3s"
               >
-                <h2 className="subscribe-title">To Get Nearly Updates</h2>
+                <h2 className="subscribe-title">To Get Nearly Updates from SLIIT Women In FOSS Community</h2>
                 <form className="text-center form-inline">
                   <input
                     className="mb-20 form-control"
