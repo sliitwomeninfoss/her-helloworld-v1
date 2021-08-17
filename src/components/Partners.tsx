@@ -47,24 +47,6 @@ function Partners() {
                 <a href="">
                   <img src={GitHub} alt="" width={100} />
                 </a>
-                {/*<a href="">*/}
-                {/*  <img src="assets/img/sponsors/logo-4.png" alt="" />*/}
-                {/*</a>*/}
-                {/*<a href="">*/}
-                {/*  <img src="assets/img/sponsors/logo-5.png" alt="" />*/}
-                {/*</a>*/}
-                {/*<a href="">*/}
-                {/*  <img src="assets/img/sponsors/logo-6.png" alt="" />*/}
-                {/*</a>*/}
-                {/*<a href="">*/}
-                {/*  <img src="assets/img/sponsors/logo-7.png" alt="" />*/}
-                {/*</a>*/}
-                {/*<a href="">*/}
-                {/*  <img src="assets/img/sponsors/logo-8.png" alt="" />*/}
-                {/*</a>*/}
-                {/*<a href="">*/}
-                {/*  <img src="assets/img/sponsors/logo-9.png" alt="" />*/}
-                {/*</a>*/}
               </div>
               {/* <!-- sponsors logo end--> */}
             </div>
