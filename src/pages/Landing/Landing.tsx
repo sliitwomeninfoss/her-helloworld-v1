@@ -6,6 +6,7 @@ import Navbar from "../../components/Navbar";
 import Partners from "../../components/Partners";
 import SpeakersSection from "../../components/SpeakersSection";
 import ScheduleSection from "../../components/ScheduleSection";
+import Winners from "../../components/Winners";
 
 function Landing() {
   return (
@@ -363,6 +364,7 @@ function Landing() {
       {/* <!-- Sponsors Section Start --> */}
       <Partners />
       {/* <!-- Sponsors Section End --> */}
+      <Winners/>
 
       {/* <!-- Contact Us Section --> */}
       <section id="contact-map" className="section-padding">

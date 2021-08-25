@@ -4,7 +4,7 @@ import React from "react";
 // import Nadee from "../assets/images/speakers/Nadee.jpg";
 // import Nimesh from "../assets/images/speakers/Nimesh.jpg";
 
-function JudgesSection() {
+function Winners() {
   return (
     <>
       <section id="judges" className="section-padding text-center">
@@ -87,4 +87,4 @@ function JudgesSection() {
   );
 }
 
-export default JudgesSection;
+export default Winners;
