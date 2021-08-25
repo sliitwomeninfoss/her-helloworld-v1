@@ -20,6 +20,7 @@ function JudgesSection() {
                 </h2>
                 <p className="wow fadeInDown" data-wow-delay="0.2s">
                   her&lt;Hello World/&gt; v1.0 Winners
+                  Will announce September 15th  
                 </p>
               </div>
             </div>
