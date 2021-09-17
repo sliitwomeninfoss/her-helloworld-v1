@@ -2,8 +2,6 @@ import React from "react";
 import SLIITFOSSLogo from "../assets/images/logos/foss-logo.png";
 import CEFlag from "../assets/images/logos/ce-flag.png";
 import GitHub from "../assets/images/logos/github.png";
-import FOSSLK from "../assets/images/logos/fosslogo2.png";
-import MOZILLA from "../assets/images/logos/MOZILLA.png";
 
 function Partners() {
   return (
@@ -32,12 +30,6 @@ function Partners() {
           >
             <div className="col-lg-12">
               <div className="sponsors-logo text-center">
-                <a href="">
-                  <img src={FOSSLK} alt="" width={100} />
-                </a>
-                <a href="">
-                  <img src={MOZILLA} alt="" width={100} />
-                </a>
                 <a href="">
                   <img src={CEFlag} alt="" width={100} />
                 </a>
