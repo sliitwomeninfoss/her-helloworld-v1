@@ -1,9 +1,12 @@
 name: Firebase CD
 
 on:
-  push:
-    branches:
-      - main
+  # Auto-deploy is disabled: Firebase Hosting is not currently in use.
+  # To re-enable, uncomment the push trigger below.
+  # push:
+  #   branches:
+  #     - main
+  workflow_dispatch:
 
 jobs:
   firebase-deploy:
@@ -23,4 +26,3 @@ jobs:
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
           ci: false
-
